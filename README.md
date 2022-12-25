@@ -1,2 +1,2 @@
-print("名字:clever250")
-print ("密码:4444why4")
+print("我是w")
+print ("很高兴认识你")
